@@ -1,4 +1,4 @@
-# ⚡ Портал evcar.info
+# Портал evcar.info
 
 **Все, що треба знати перед купівлею електромобіля.** Порівнюємо ціни, батареї та вартість утримання EV в українських реаліях.
 
@@ -9,7 +9,7 @@
 * [Огляд Model S та Y](https://evcar.info/tesla/model-SY)
 * [Список усіх моделей Tesla](https://evcar.info/cars-db?brand-search=TESLA&brand=tesla)
 
-
+## 🚗 Інші моделі електромобілів
 * [Характеристики BMW iX3 2025](https://evcar.info/car-info/bmw-ix3-xdrive-50-lithium-ion-2025)
 * [Характеристики Audi e-tron GT quattro 2025](https://evcar.info/car-info/audi-e-tron-gt-quattro-lithium-ion-2025)
 * [Характеристики BYD Dolphin 2025](https://evcar.info/car-info/byd-dolphin-fwd-604-kwh-blade-lfp-2025)
